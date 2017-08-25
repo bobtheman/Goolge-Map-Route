@@ -10,8 +10,7 @@ namespace GoogleMapRoute
 {
 	public partial class _default : System.Web.UI.Page
 	{
-		string GoogleKey = "AIzaSyDN4JQdz3RONNI-LiFDp0iIUivZf3EnUPA";
-		//string GoogleKey = "-- Your Key Here --";
+		string GoogleKey = "-- Your Key Here --";
 
 		protected void Page_Load(object sender, EventArgs e)
 		{
